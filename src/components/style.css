@@ -1,0 +1,74 @@
+/** @format */
+
+.main-wrapper {
+}
+
+#background {
+	height: -webkit-fill-available;
+	margin: auto;
+	position: absolute;
+	display: flex;
+	z-index: -10;
+	left: 50%;
+	transform: translate(-50%, 0px);
+}
+.container {
+	justify-content: center;
+	z-index: 1;
+	display: flex;
+	text-align: center;
+	font-size: xxx-large;
+	font-family: sans-serif;
+	font-weight: 900;
+	white-space: pre-wrap;
+	color: white;
+	text-shadow: 0 2px 2px brown;
+	height: 50vh;
+}
+
+#float {
+	position: absolute;
+	z-index: 10;
+	transform: translate(-40%, -50%);
+}
+#float img {
+	height: 200px;
+	width: auto;
+}
+#small-img {
+	height: 60px;
+	width: auto;
+}
+input {
+	margin: auto;
+	padding: 10px;
+	width: 50vw;
+	max-width: 600px;
+	border: 0;
+	border-radius: 15px;
+	outline: none;
+	box-shadow: 0 0 5px brown;
+}
+.secret {
+	margin: auto;
+	position: absolute;
+	width: fit-content;
+	left: 50%;
+	bottom: 10%;
+	transform: translate(-50%, 0);
+}
+.sound {
+	position: absolute;
+	bottom: 0;
+	right: 10px;
+}
+@media only screen and (max-width: 600px) {
+	#background {
+		margin-top: 15vh;
+		width: 100%;
+		height: auto;
+	}
+	.container {
+		font-size: 36px;
+	}
+}
