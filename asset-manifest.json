@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Love/static/css/main.d4d9b167.chunk.css",
-    "main.js": "/Love/static/js/main.3faeb15c.chunk.js",
-    "main.js.map": "/Love/static/js/main.3faeb15c.chunk.js.map",
+    "main.js": "/Love/static/js/main.cea8ebcf.chunk.js",
+    "main.js.map": "/Love/static/js/main.cea8ebcf.chunk.js.map",
     "runtime-main.js": "/Love/static/js/runtime-main.ecee6ab2.js",
     "runtime-main.js.map": "/Love/static/js/runtime-main.ecee6ab2.js.map",
     "static/js/2.30ef94e5.chunk.js": "/Love/static/js/2.30ef94e5.chunk.js",
     "static/js/2.30ef94e5.chunk.js.map": "/Love/static/js/2.30ef94e5.chunk.js.map",
     "index.html": "/Love/index.html",
-    "precache-manifest.080a25221b93a2cfaef0c017cb11b365.js": "/Love/precache-manifest.080a25221b93a2cfaef0c017cb11b365.js",
+    "precache-manifest.93db77c24dd360b5f8d82d4520745d22.js": "/Love/precache-manifest.93db77c24dd360b5f8d82d4520745d22.js",
     "service-worker.js": "/Love/service-worker.js",
     "static/css/main.d4d9b167.chunk.css.map": "/Love/static/css/main.d4d9b167.chunk.css.map",
     "static/js/2.30ef94e5.chunk.js.LICENSE.txt": "/Love/static/js/2.30ef94e5.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.ecee6ab2.js",
     "static/js/2.30ef94e5.chunk.js",
     "static/css/main.d4d9b167.chunk.css",
-    "static/js/main.3faeb15c.chunk.js"
+    "static/js/main.cea8ebcf.chunk.js"
   ]
 }
